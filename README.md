@@ -1,34 +1,34 @@
-# Task Management App
+# Aplicación de Gestión de Tareas
 
 ![Task Management App](./images/todo-app.JPG)
 
-## Table of Contents
+## Tabla de Contenidos
 
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Acerca del Proyecto](#acerca-del-proyecto)
+- [Características](#características)
+- [Construido con](#construido-con)
+- [Comenzando](#comenzando)
+  - [Requisitos Previos](#requisitos-previos)
+  - [Instalación](#instalación)
+- [Uso](#uso)
+- [Hoja de Ruta](#hoja-de-ruta)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
+- [Agradecimientos](#agradecimientos)
 
-## About the Project
+## Acerca del Proyecto
 
-This is a task management application built with Next.js, React, and MongoDB. It allows users to create, update, and delete tasks. This project showcases my skills in full-stack development using modern technologies.
+Esta es una aplicación de gestión de tareas construida con Next.js, React y MongoDB. Permite a los usuarios crear, actualizar y eliminar tareas. Este proyecto muestra mis habilidades en el desarrollo full-stack utilizando tecnologías modernas.
 
-## Features
+## Características
 
-- User authentication and authorization
-- Create, update, and delete tasks
-- Responsive design for mobile and desktop
-- Real-time updates with WebSockets
+- Autenticación y autorización de usuarios
+- Crear, actualizar y eliminar tareas
+- Diseño responsivo para móvil y escritorio
+- Actualizaciones en tiempo real con WebSockets
 
-## Built With
+## Construido con
 
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
@@ -36,36 +36,36 @@ This is a task management application built with Next.js, React, and MongoDB. It
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Node.js](https://nodejs.org/)
 
-## Getting Started
+## Comenzando
 
-To get a local copy up and running follow these simple steps.
+Para obtener una copia local en funcionamiento, sigue estos sencillos pasos.
 
-### Prerequisites
+### Requisitos Previos
 
-Make sure you have the following installed on your local machine:
+Asegúrate de tener lo siguiente instalado en tu máquina local:
 
 - Node.js
 - npm
 - MongoDB
 
-### Installation
+### Instalación
 
-1. Clone the repo
+1. Clona el repositorio
 ```sh
    git clone https://github.com/gabykap29/crud-nextjs-react.git
 ```
-2. Install NPM packages
+2. Instalar las dependencias necesarias
 ```sh
     npm install
 ```
-3. Run the development server
+3. Ejecutar el servidor
 ```sh
     npm run dev
 ```
 
-### Usage
-Once the development server is running, you can open http://localhost:3000 to see the app.
+### Uso
+Una vez que el servidor de desarrollo esté en funcionamiento, puedes abrir http://localhost:3000 para ver la aplicación.
 
-- Create a new task by clicking on the "Add Task" button
-- Update a task by clicking on the task and editing the details
-- Delete a task by clicking the delete icon next to the task
+- Crea una nueva tarea haciendo clic en el botón "nueva tarea"
+- Actualiza una tarea haciendo clic en la tarea y editando los detalles
+- Elimina una tarea haciendo clic en el boton de eliminar junto a la tarea
