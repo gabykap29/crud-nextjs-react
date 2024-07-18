@@ -1,6 +1,6 @@
 # Task Management App
 
-![Task Management App](path_to_your_screenshot.png)
+![Task Management App](./images/todo-app.JPG)
 
 ## Table of Contents
 
