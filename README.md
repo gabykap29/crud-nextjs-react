@@ -12,10 +12,7 @@
   - [Instalación](#instalación)
 - [Uso](#uso)
 - [Hoja de Ruta](#hoja-de-ruta)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
-- [Agradecimientos](#agradecimientos)
+
 
 ## Acerca del Proyecto
 
